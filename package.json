@@ -1,0 +1,17 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "## Project Overview This is my **2nd** project on [Udacity](https://www.udacity.com/), in this project they require us to create an asynchronous web application that uses Web API and user data to dynamically update the UI, using the API provided by [OpenWeatherAPI](https://openweathermap.org/api) we going to manipulate the data we receive from this API and display it to the users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hesham Mohamed hesham.m.ali.blogger@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
